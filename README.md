@@ -13,7 +13,7 @@ To run the applictaion:
 
 1. Install dependencies 
 ```
-pip install requirements.txt
+pip install flask
 ```
 2. Run the application
 ```
