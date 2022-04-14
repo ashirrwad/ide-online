@@ -4,9 +4,10 @@ It's a basic Flask App which runs the code from editor on the servers compiler a
 
 Instructions to run
 
-Needed: 
-1.Python
-2.GCC(with gfortran)
+Needed:
+
+1. Python 3
+2. GCC (10.3.0)
 
 1. Install dependencies 
 ```
