@@ -9,6 +9,7 @@ Needed:
 1. Python 3
 2. GCC (10.3.0)
 
+
 1. Install dependencies 
 ```
 pip install requirements.txt
