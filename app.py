@@ -1,7 +1,6 @@
 from flask import Flask, render_template,request,jsonify, url_for
 import os
 import random
-from urllib.parse import unquote
 import subprocess
 
 
@@ -18,7 +17,7 @@ def output():
         url = request.get_json()
         results = url
         print(results['code'])
-        random_name = random.randint(0, 20)
+        random_name = random.randint(0, 50)
         path_file = "./files/{0}.f90".format(random_name)
         file1 = open("{0}".format(path_file), "w") 
         file1.write(results['code'])
