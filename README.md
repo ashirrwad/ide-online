@@ -9,6 +9,7 @@ Needed:
 1. Python 3
 2. GCC (10.3.0)
 
+To run the applictaion:
 
 1. Install dependencies 
 ```
