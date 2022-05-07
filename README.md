@@ -21,4 +21,4 @@ flask run
 ```
 Note: Use administrator mode while running the app from your cmd if on Windows or just sudo it on linux, it uses system default PATH for gfortran which might cause errors without admin permission.
 
-This app is a very simple implementation and acts as a proof-of-concept for the idea, it has a lot of problems and it is highly advised not to use this as it is on a production environment. 
+This app is a very simple implementation and acts as a proof-of-concept for the idea, it has a lot of security loopholes and it is highly advised not to use this as it is on a production environment. 
